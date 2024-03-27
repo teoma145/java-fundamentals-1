@@ -2,7 +2,7 @@ package org.fundamentals;
 
 import java.util.Scanner;
 
-public class calcolaBiglietto {
+public class CalcolaBiglietto {
     public static void main(String[] args){
         double prezzoBiglietto= 0.21;
         int km;
